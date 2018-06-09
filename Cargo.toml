@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["Shotaro Tsuji <Shotaro.Tsuji@gmail.com>"]
 
 [dependencies]
+getopts = "0.2"
 image = "*"
